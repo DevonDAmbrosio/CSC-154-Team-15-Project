@@ -17,6 +17,14 @@ Team Members: India Rowe, Peyton Ware, Riya Vadadoria, Stefan Slaczka, Sean Step
 
 4.	Use Case and User Stories (Create at least 3 User Stories or Use Cases)
 
+A bookstore employee should be able to log information about a book into their inventory system (such as title, author, ISBN, publisher, genre, price, etc.) under a menu item on the home screen (Book —> Adopt Book Info), so that the particular book can be searched easily for inventory management.
+
+A bookstore employee should be able to search and filter the sales histories of specific book categories (title, genre, year released, author, etc.), so they can get sales information for that particular category.
+
+A bookstore employee should be able to log information from a customer (such as name, date of birth, phone number, and email address) under a menu item on the home screen (Customers —> Adopt Customer Info), so that they can keep a record of past purchases and send out appropriate promotions when necessary.
+
+A bookstore employee should be able to log information about publishers they use to purchase books from (such as name, address, contact, return policy, account number, etc.) under a menu item on the home screen (Publishers —> Adopt Publisher Info), so that when they search up that particular publisher all information needed is located on one page.
+
 
 5.	Team Collaboration and Documentation Tools
 
