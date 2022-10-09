@@ -13,7 +13,7 @@ Create an inventory management system built for employees of a small local books
 2.	Project Description
 
 By pulling some inspiration from the Barnes and Noble inventory system, our team will create Book-Tora software. It will involve making a React based user interface designed with easily accessible menus that will allow bookstore employees to store, search, and link important inventory, customer, and publisher information. 
-Our team will create an SQL backend to store all data inputted data in an organized fashion.
+Our team will create an SQL backend to store all inputted data in an organized fashion.
 
 3.	Project Scope
 
