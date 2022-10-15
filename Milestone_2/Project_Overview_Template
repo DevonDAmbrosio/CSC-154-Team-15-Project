@@ -83,9 +83,12 @@ By pulling some inspiration from the Barnes and Noble inventory system, our team
 5.	Business Requirements
 
 Requirement ID	Requirement Description	MOSCOW
-BR1	e.g. We need to contact the customer with xyz information.	M
-BR2		
-BR3		
+BR1	We need to create a computerized system to hold all important product, customer, sales, and publisher information in an organized fashion.   M
+BR2	All of our employees will be able to search and locate any information pertaining to inventory, sales, customers, and publishers by use of keywords within seconds.  M	
+BR3	Employees can add to and update any information within the databases on a daily basis.	M
+BR4	We need to create managerial accounts that will permit more access to editorial options than lower-level staff accounts.  S
+BR5	We need to keep track of trending purchases to create better marketing campaigns	C
+BR6	We need to track how many new customers have been added to the system each month	W
 
 6.	User Requirements
 
